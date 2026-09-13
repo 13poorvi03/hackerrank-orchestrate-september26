@@ -30,7 +30,7 @@ Read [`problem_statement.md`](./problem_statement.md) for the full task specific
 Clone the repository and move into the project directory:
 
 ```bash
-git clone https://github.com/interviewstreet/hackerrank-orchestrate-september26.git
+git clone https://github.com/13poorvi03/hackerrank-orchestrate-september26.git
 cd hackerrank-orchestrate-september26
 ```
 
